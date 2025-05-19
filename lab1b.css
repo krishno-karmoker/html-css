@@ -1,0 +1,38 @@
+body {
+ background-color: #f4f7f9;
+ color: #333;
+ margin: 0;
+ padding: 0;
+}
+header {
+ background-color: #0077cc;
+ color: white;
+ text-align: center;
+ padding: 20px 10px;
+}
+.intro {
+ background-color: #ffffff;
+ padding: 20px;
+ margin: 20px auto;
+ border: 1px solid #ddd;
+ max-width: 800px;
+}
+.features {
+ background-color: #eef6fb;
+ padding: 20px;
+ margin: 20px auto;
+ border-left: 4px solid #0077cc;
+ max-width: 800px;
+}
+.features ul {
+ list-style-type: square;
+ padding-left: 20px;
+}
+footer {
+ background-color: #222;
+ color: #aaa;
+ text-align: center;
+ padding: 15px;
+ font-size: 0.9em;
+ margin-top: 40px;
+}
